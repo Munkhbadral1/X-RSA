@@ -4,7 +4,8 @@ banner()
 
 from math import log,sqrt, ceil, floor
 import random
-from fractions import gcd
+#from fractions import gcd
+from math import gcd
 import sys
 from builtins import ValueError
 
