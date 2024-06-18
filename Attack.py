@@ -16,7 +16,7 @@ elif check == 1:
 [3] - Attack (c,n,e,{p or q})
 [4] - Attack (c,n,e,dp)
 [5] - Attack(c,n,d,e,phi) \033[93m
-[6] - Attack(c1,c2,c3,n1,n2,n3,e=3) \033[95m    [ Hasted ]
+[6] - Attack(c1,c2,c3,n1,n2,n3,e=3) \033[95m    [ Hasted ]    Chinese Remainder Theorem
 [7] - Attack(c1,c2,e1,e2,n) \033[96m            [ Common Modulus ]
 [8] - Attack(c,p,q,dp,dq) \033[93m              [ Chinese Remainder Theorem ]
 [9] - Attack(n,e) \033[95m                      [ Wiener ]
